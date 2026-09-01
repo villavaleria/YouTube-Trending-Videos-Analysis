@@ -13,7 +13,7 @@ This project contains an in-depth Exploratory Data Analysis (EDA) and Data Wrang
 
 The project is structured as a Jupyter Notebook that processes and analyzes the famous "Trending YouTube Video Statistics" dataset. The workflow tackles several common data processing challenges, such as concatenating scattered datasets, string manipulation, time-series operations, and complex joins between different file formats (CSV and JSON).
 
-## 🚀 Features and Completed Tasks
+## Features and Completed Tasks
 
 The analysis is divided into 15 main tasks:
 
@@ -33,7 +33,7 @@ The analysis is divided into 15 main tasks:
 14. **JSON Integration**: Reading and normalizing (parsing) `.json` files containing YouTube category metadata for each country.
 15. **Category Merge and Validation**: Join (Left Merge) between the main video dataset and the category DataFrames to identify how many videos have a category defined as non-assignable (`assignable = False`).
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Language**: Python
 - **Main Libraries**:
@@ -41,13 +41,13 @@ The analysis is divided into 15 main tasks:
   - `numpy` (Numerical computing and array support)
   - `re` (Regular expressions for string cleaning)
 
-## 📂 Required Dataset Structure
+## Required Dataset Structure
 
 To run the code, ensure you have the following file structure inside your specified directory (e.g., `/trendingYT/`):
 - CSV files for videos: `CAvideos.csv`, `DEvideos.csv`, `FRvideos.csv`, `GBvideos.csv`, `INvideos.csv`, `JPvideos.csv`, `KRvideos.csv`, `MXvideos.csv`, `RUvideos.csv`, `USvideos.csv`.
 - JSON files for categories: `CA_category_id.json`, `DE_category_id.json`, etc.
 
-## ⚙️ Installation and Usage
+## Installation and Usage
 
 1. Clone the repository:
    ```bash
