@@ -1,7 +1,6 @@
 # YouTube Trending Videos Data Analysis
-Foundations of Computer Science's project about YouTube Trends - MsC in Data Science (Unimib)
+Foundations of Computer Science 2025/26 - MsC in Data Science (Unimib)
 
-January 2026
 
 This project contains an in-depth Exploratory Data Analysis (EDA) and Data Wrangling of YouTube trending videos across various countries (USA, Great Britain, Germany, Canada, France, Russia, etc.). The goal is to extract meaningful insights using Python Data Science libraries, transforming raw data into a structured and analysis-ready dataset.
 
