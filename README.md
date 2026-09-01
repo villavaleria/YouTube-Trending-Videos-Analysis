@@ -3,10 +3,6 @@ Foundations of Computer Science's project about YouTube Trends - MsC in Data Sci
 
 January 2026
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange.svg)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-Math-lightblue.svg)](https://numpy.org/)
-
 This project contains an in-depth Exploratory Data Analysis (EDA) and Data Wrangling of YouTube trending videos across various countries (USA, Great Britain, Germany, Canada, France, Russia, etc.). The goal is to extract meaningful insights using Python Data Science libraries, transforming raw data into a structured and analysis-ready dataset.
 
 ## Project Description
